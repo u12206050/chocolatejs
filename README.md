@@ -1,0 +1,2 @@
+# chocolatejs
+Chocolate meets JavaScript. 
