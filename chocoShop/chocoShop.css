@@ -1,7 +1,6 @@
 /* CSS declarations go here */
 body{
-	font-family: monospace;
-	font-style: lucida;
+	font-family: "courier", sans-serif;
 	background-color: #a0693e;
 	position: fixed;
     top: 50%;
