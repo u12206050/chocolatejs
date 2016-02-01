@@ -17,3 +17,10 @@ p{
 .subtext{
 	color: #848383;
 }
+
+img{
+	margin-right: auto;
+	margin-left: auto;
+	height: 200px;
+	width: 200px;
+}
